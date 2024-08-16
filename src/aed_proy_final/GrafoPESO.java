@@ -4,6 +4,7 @@ public class GrafoPESO {
     public int[][] adjMatrix;
     public String GITHUB;
     public String GITHUBv2;
+    public String GITHUBv3_Pablito;
     
     public GrafoPESO(int numVertices) {
         this.numVertices = numVertices;
