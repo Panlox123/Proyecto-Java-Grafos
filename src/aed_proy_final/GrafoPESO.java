@@ -6,6 +6,7 @@ public class GrafoPESO {
     public String GITHUBv2;
     
     public String GITHUBv5_Example;
+    public String GITHUBv6_Example;
     
     public GrafoPESO(int numVertices) {
         this.numVertices = numVertices;
