@@ -3,6 +3,7 @@ public class GrafoPESO {
     public int numVertices;
     public int[][] adjMatrix;
     public String GITHUB;
+    public String Ruth;
     public String GitHub7;
     
     public String GITHUBv2;
