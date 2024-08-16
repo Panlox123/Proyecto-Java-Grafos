@@ -2,6 +2,8 @@ package aed_proy_final;
 public class GrafoPESO {
     public int numVertices;
     public int[][] adjMatrix;
+    public String GITHUB;
+    
     public GrafoPESO(int numVertices) {
         this.numVertices = numVertices;
         adjMatrix=new int[numVertices+1][numVertices+1]; // Ajuste para comenzar desde 1
