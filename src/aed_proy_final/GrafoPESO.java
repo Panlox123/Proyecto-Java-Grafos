@@ -5,7 +5,7 @@ public class GrafoPESO {
     public String GITHUB;
     public String GITHUBv2;
     
-    public String GITHUBv4_Example;
+    public String GITHUBv5_Example;
     
     public GrafoPESO(int numVertices) {
         this.numVertices = numVertices;
